@@ -1,0 +1,10 @@
+1. Analizar y describir la librería: "arm_book_lib.h"
+Dicha libreria contiene las definiciones necesarias para poder operar con los pines y funcionalidades del micro.
+
+2. Analizar y describir la librería : "mbed.h"
+La libreria "mbed.h" contiene los enlaces a las librerias que son utilizadas para el manejo de los perisfericos.
+
+4. ¿Qué es OpenSTM32?
+OpenSTM32 es una herramienta que permite exportar el proyecto en diferentes formatos.
+
+5. ¿Qué es mbed-OS?
