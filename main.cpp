@@ -3,7 +3,7 @@
 
 int main()
 {   
-    DigitalIn gasDetector(D2); //instancio el objeto "gasDetector" de la Clase publica "DigitalIn" con la SOBRECARGA del CONSTRUCTOR que toma un parametro
+    DigitalIn gasDetector(D4); //instancio el objeto "gasDetector" de la Clase publica "DigitalIn" con la SOBRECARGA del CONSTRUCTOR que toma un parametro
 
     DigitalOut alarmLed(LED1); //instancio el objeto "alarmLed" de la Clase publica "DigitalOut" con la SOBRECARGA del CONSTRUCTOR que toma un parametro
 
