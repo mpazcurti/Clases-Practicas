@@ -4,7 +4,8 @@
 int main()
 {   
     DigitalIn gasDetector(D4); //instancio el objeto "gasDetector" de la Clase publica "DigitalIn" con la SOBRECARGA del CONSTRUCTOR que toma un parametro
-
+                               //Se modifico el pin D2 de la placa por el D4.
+    
     DigitalOut alarmLed(LED1); //instancio el objeto "alarmLed" de la Clase publica "DigitalOut" con la SOBRECARGA del CONSTRUCTOR que toma un parametro
 
     gasDetector.mode(PullDown);// Se establece el modo de pin a traves del metodo mode de la clase DigitalIn
